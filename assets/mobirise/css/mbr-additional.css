@@ -1674,7 +1674,7 @@ body {
   color: #ffffff !important;
 }
 .cid-qPtzNX0IEs {
-  background-image: url("../../../assets/images/dsc01260.jpg");
+  background-image: url("../../../assets/images/dsc01260-2.jpg");
 }
 .cid-qPtzNX0IEs .mbr-text,
 .cid-qPtzNX0IEs .mbr-section-btn {
@@ -1761,12 +1761,12 @@ body {
 }
 .cid-qPzzQVHGmT .navbar {
   padding: .5rem 0;
-  background: #554346;
+  background: #333333;
   transition: none;
   min-height: 77px;
 }
 .cid-qPzzQVHGmT .navbar-dropdown.bg-color.transparent.opened {
-  background: #554346;
+  background: #333333;
 }
 .cid-qPzzQVHGmT a {
   font-style: normal;
@@ -1850,7 +1850,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qPzzQVHGmT .dropdown .dropdown-menu {
-  background: #554346;
+  background: #333333;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2170,6 +2170,9 @@ body {
 }
 .cid-qRylfZNNVg P {
   text-align: left;
+}
+.cid-qRylfZNNVg .card-title {
+  color: #554346;
 }
 .cid-qQUuwv8tHa .navbar {
   padding: .5rem 0;
@@ -4105,7 +4108,7 @@ body {
   text-align: center;
 }
 .cid-qTq4KAXfK7 .content-slider-wrap {
-  width: 80%;
+  width: 79%;
 }
 .cid-qQUuwv8tHa .navbar {
   padding: .5rem 0;
